@@ -1,6 +1,6 @@
 # Java Stream API EXAMPLES
 
-<img src="screenshots/javastream_image.PNG" alt="Main Information" width="600" height="400">
+<img src="screenshots/javastream_image.PNG" alt="Main Information" width="800" height="600">
 
 ## Description
 <ul style="list-style-type:disc">
